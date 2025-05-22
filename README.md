@@ -4,7 +4,5 @@
                     <br>— Martin Fowler</h5>
 
 <div align="center">
-
-<img src="https://c.tenor.com/rUmCLvPl5ZUAAAAC/tenor.gif" alt="Haruki Shiga" />
-
+  <img src="https://github.com/TanshenH/TanshenH/blob/main/Haruki%20Shiga.gif" alt="Haruki Shiga" />
 </div>
